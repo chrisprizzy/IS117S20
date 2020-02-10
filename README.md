@@ -2,7 +2,7 @@
 
 GIT - PC based version control system
 
-GITHUB
+GITHUB - Internet based version control system
 
 Repository
 
