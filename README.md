@@ -4,22 +4,22 @@ GIT - PC based version control system
 
 GITHUB - Internet based version control system
 
-Repository
+Repository - digital directory where you can access your project files
 
-Clone
+Clone - creates a clone of the repository
 
-Commit
+Commit - similar to save, or a revision. Keeps record of what changes were made when and by who
 
-Push
+Push - sending committed changes to a remote repository such as GitHub
 
-Pull
+Pull - updates LOCAL repository to the most recent commit.
 
-Branch
+Branch -  a 'folder' that stores commits.
 
-Merge
+Merge - merges a user commits to the respective branch
 
-Merge Conflict
+Merge Conflict - when a user commits/merge interferes with the current branch
 
-Fetch
+Fetch - gets the newest version of remote repository
 
-Remote
+Remote - code on github
